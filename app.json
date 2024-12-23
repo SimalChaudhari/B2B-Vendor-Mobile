@@ -4,7 +4,7 @@
     "slug": "b2b-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/techno.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
